@@ -7,9 +7,9 @@
 
 - Nouf Abuabat
 
-- Batool
+- Batool Alsuqayh
 
-- Danah
+- Danah Alqarni
 
 ## Motivation
 Riyadh is a rapidly growing city with a rich food life, and it boasts many restaurants offering a variety of cuisines for a variety of tastes and predilections. With such a plethora of restaurants, the selection of an apt restaurant proves to be a challenging one for both its citizens and visitors.  
