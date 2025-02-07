@@ -13,12 +13,9 @@
 
 ## Motivation
 
-
-## Dataset Overview
-
-
 ## Dataset Source
 
+## Dataset Overview
 
 ## Analysis & Preprocessing Steps
 The Jupyter Notebook in this repository includes the following steps:
