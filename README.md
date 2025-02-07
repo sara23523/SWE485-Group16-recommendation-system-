@@ -1,7 +1,7 @@
 # SWE485-Group16-Restaurants-recommendation-system
 
 ## Team Members
-- Sarah Alshenifai 
+- Sarah Alshenaifi 
 
 - Amal Aljassas
 
