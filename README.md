@@ -43,11 +43,8 @@ dataset contains **1,232 entries** and **11 columns**.
 ## Analysis & Preprocessing Steps
 The Jupyter Notebook in this repository includes the following steps:
 
-- **Data Visualization**:
-   
-   
-- **Summary of the dataset**:
-   
-
-- **Data Preprocessing**:
+- **Goal of the Dateset**
+- **Data Visualization**
+- **Summary of the dataset**
+- **Data Preprocessing**
    
