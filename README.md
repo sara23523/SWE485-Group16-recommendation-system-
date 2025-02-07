@@ -26,7 +26,20 @@ The dataset is available on GitHub:
 https://github.com/sara23523/Riyadh_Restaurants_Dataset
 
 ## Dataset Overview
+dataset contains **1,232 entries** and **11 columns**. 
 
+1. **restaurant_name** – Name of the restaurant.
+2. **category** – Type of cuisine or category.
+3. **rating** – Customer rating.
+4. **review_count** – Number of reviews.
+5. **price_range** – Pricing information.
+6. **address** – Location details.
+7. **image_url** – URL of the restaurant's main image.
+8. **dine_in** – Availability of dine-in service.
+9. **takeaway** – Availability of takeaway service.
+10. **delivery** – Availability of delivery service.
+11. **additional_image_url** – Secondary image URL.
+    
 ## Analysis & Preprocessing Steps
 The Jupyter Notebook in this repository includes the following steps:
 
